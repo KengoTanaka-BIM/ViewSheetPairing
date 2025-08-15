@@ -60,7 +60,7 @@ BIMエンジニア。Revit APIによるアドイン開発を専門としてい�
 副業でBIM効率化ツールを開発中。開発依頼やコラボ歓迎です。
 
 Qiitaにて記事公開:  
-[https://qiita.com/KengoTanaka-BIM/items/ee06deb9bc65dcfecc22](https://qiita.com/KengoTanaka-BIM/items/ee06deb9bc65dcfecc22)
+https://qiita.com/KengoTanaka-BIM/items/d4036b89fc54cb94a6f6
 
 ---
 
